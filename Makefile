@@ -1,5 +1,5 @@
 tests:
-	nosetests
+	nosetests 
 	
 dev_test:
-	when-changed -r test 'clear && make tests'
+	when-changed test 'clear && make tests'
