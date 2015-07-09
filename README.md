@@ -5,8 +5,8 @@ This is a square of size 4, with 'x' along the edge of the square and space ' ' 
 
 ```
 xxxx
-x x
-x x
+x  x
+x  x
 xxxx
 ```
 
