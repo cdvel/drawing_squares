@@ -1,4 +1,6 @@
 
+[![Build Status](https://snap-ci.com/cesarvelandia/drawing_squares/branch/master/build_image)](https://snap-ci.com/cesarvelandia/drawing_squares/branch/master)
+
 #Drawing Exercise 1
 ## Draw a Square
 This is a square of size 4, with 'x' along the edge of the square and space ' ' in the middle of the square.
